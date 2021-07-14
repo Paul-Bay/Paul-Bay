@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Paul-Bay
+- 👀 I’m interested in Systems Pharmacology
+- 🌱 I’m currently learning how to construct PBPK-models for oral formulations
