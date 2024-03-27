@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Paul-Bay
+- 👋 Hi, I’m Paul
 - 👀 I’m interested in Systems Pharmacology
-- 🌱 I’m currently learning constructing PBPK-models using OSP software (PK-Sim & MoBi)
+- 🌱 I’m using OSP software (PK-Sim & MoBi) to construct Physiology Based Biopharmaceutical Models (PBBM).
